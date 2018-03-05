@@ -52,7 +52,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Arranger.cs" />
-    <Compile Include="ArrangerMaker.cs" />
     <Compile Include="Collection\PermissionCollection.cs" />
     <Compile Include="Collection\RoleCollection.cs" />
     <Compile Include="Interfaces\UserInterface.cs" />
