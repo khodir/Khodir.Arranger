@@ -54,6 +54,7 @@
     <Compile Include="Arranger.cs" />
     <Compile Include="Collection\PermissionCollection.cs" />
     <Compile Include="Collection\RoleCollection.cs" />
+    <Compile Include="Interfaces\CollectionInterface.cs" />
     <Compile Include="Interfaces\UserInterface.cs" />
     <Compile Include="Models\Permission.cs" />
     <Compile Include="Models\Role.cs" />
